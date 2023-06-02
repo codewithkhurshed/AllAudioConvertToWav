@@ -26,7 +26,7 @@ def convert_folder(folder_path):
 
 if __name__ == "__main__":
   # Get the folder path from the user.
-  folder_path = "/content/drive/MyDrive/Bengali Accent Classification Dataset/regionData/Formal"
+  folder_path = "paste your file path"
 
   # Convert all files in the folder to WAV format.
   convert_folder(folder_path)
